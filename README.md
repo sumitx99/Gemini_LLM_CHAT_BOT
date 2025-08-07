@@ -4,7 +4,6 @@ This is a Streamlit-based application that uses Google's Gemini API to provide a
 
 ![image](https://github.com/user-attachments/assets/f70dc0a8-ee02-45d2-93d4-bf0a2b7447d7)
 
-
 ## 🌟 Features
 
 - 🖥️ **Interactive Q&A Interface**: Powered by Streamlit.
