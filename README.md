@@ -30,7 +30,7 @@ This is a Streamlit-based application that uses Google's Gemini API to provide a
     ```plaintext
     GOOGLE_API_KEY=your_actual_google_api_key_here
     ```
-
+    
 ## 🚀 Usage
 
 1. Run the Streamlit app:
